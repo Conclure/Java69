@@ -9,12 +9,12 @@ Looking for professional support of Project Java69? Java69 is now part of a [tid
 
 For a list of all authors, see the [AUTHORS] file. 
 
-For complete project information, see [projectlombok.org]
+For complete project information, see [projectjava69.org]
 
 You can review our security policy via [SECURITY.md]
 
 [LICENSE]: https://github.com/Conclure/Java69/blob/master/LICENSE
 [AUTHORS]: https://github.com/Conclure/Java69/blob/master/AUTHORS
 [SECURITY.md]: https://github.com/Conclure/Java69/blob/master/SECURITY.md
-[projectjava69.org]: https://projectjaba69.org/
+[projectjava69.org]: https://projectjava69.org/
 [tidelift subscription]: https://tidelift.com/subscription/pkg/maven-org-projectjava69-java69?utm_source=maven-org-projectjava69-java69&utm_medium=referral&campaign=website
