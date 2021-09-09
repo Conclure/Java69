@@ -16,5 +16,5 @@ You can review our security policy via [SECURITY.md]
 [LICENSE]: https://github.com/Conclure/Java69/blob/master/LICENSE
 [AUTHORS]: https://github.com/Conclure/Java69/blob/master/AUTHORS
 [SECURITY.md]: https://github.com/Conclure/Java69/blob/master/SECURITY.md
-[projectlombok.org]: https://projectjaba69.org/
+[projectjava69.org]: https://projectjaba69.org/
 [tidelift subscription]: https://tidelift.com/subscription/pkg/maven-org-projectjava69-java69?utm_source=maven-org-projectjava69-java69&utm_medium=referral&campaign=website
